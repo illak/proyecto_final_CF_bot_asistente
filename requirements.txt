@@ -12,3 +12,4 @@ langchain-google-community[drive]
 nest_asyncio
 unstructured
 langchain-text-splitters
+faiss-cpu
